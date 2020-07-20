@@ -1,4 +1,6 @@
 # Tic-tac-toe
+A simple game of tic-tac-toe in python3.
+
 Coordinates go in the following order.
 
     (1,3)  (2,3)  (3,3)
